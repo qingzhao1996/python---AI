@@ -1,6 +1,6 @@
 # python---AI
 
-Qingzhao Liu
+Liu Qingzhao
 
 Beijing Forestry University
 
